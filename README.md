@@ -33,6 +33,6 @@ Learn to install popular digital forensic tools — Sleuth Kit and Autopsy — a
 
 # Submit:
 <img width="1920" height="1080" alt="Screenshot 2025-08-14 132048" src="https://github.com/user-attachments/assets/de01cb85-9cc1-46f9-b76d-4b6be8c05402" />
-[Uploading report.html…]()
+
 
 
